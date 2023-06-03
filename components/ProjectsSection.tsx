@@ -12,14 +12,13 @@ const projects = [
     github: "https://github.com/brandonzane/anime-plus",
     link: "https://anime-plus-937b5.web.app/",
   },
-  // {
-  //   name: "PlatoIO",
-  //   description:
-  //     "PlatoIO is a to do list app that's built using the PERN stack.",
-  //   image: "/platoio.png",
-  //   github: "https://github.com/hqasmei/platoio",
-  //   link: "https://platoio.com/register",
-  // },
+  {
+    name: "Natai Natai",
+    description: "Natai Natai is a wordpress ecommerce website.",
+    image: "/natainatai.png",
+    github: "https://natainatai.com",
+    link: "https://natainatai.com",
+  },
   // {
   //   name: "Kator Family Photos",
   //   description:
